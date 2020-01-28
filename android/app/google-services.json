@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "906764840962",
+    "firebase_url": "https://myhealth-777a0.firebaseio.com",
+    "project_id": "myhealth-777a0",
+    "storage_bucket": "myhealth-777a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906764840962:android:6002d4cbb03f36dd1f771b",
+        "android_client_info": {
+          "package_name": "com.flutter.login_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906764840962-t809tr207s2r471c8ipbothhs4qmnp44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJms8-9SI9XK0ptwktZkqXkuG-3AAGRbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906764840962-t809tr207s2r471c8ipbothhs4qmnp44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
